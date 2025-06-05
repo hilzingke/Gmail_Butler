@@ -1,0 +1,11 @@
+gmail_analyzer/
+├── app.py
+├── requirements.txt
+├── templates/
+│   ├── index.html
+│   ├── analysis.html
+│   └── confirm_delete.html
+├── static/
+│   └── style.css
+├── gmail_service.py
+└── README.md
